@@ -66,3 +66,21 @@ website-chatbot/
 ├── README.md               # Project documentation
 └── data/                   # Stored embeddings & metadata
 
+
+⚙️ Installation & Setup (VS Code)
+1️⃣ Clone or Download Project
+git clone https://github.com/your-username/website-ai-chatbot.git
+cd website-ai-chatbot
+
+2️⃣ Install Dependencies
+pip install requests beautifulsoup4 langchain langchain-community langchain-text-splitters sentence-transformers faiss-cpu streamlit
+
+pip install requests beautifulsoup4 langchain langchain-community langchain-text-splitters sentence-transformers faiss-cpu streamlit
+streamlit run app.py
+
+
+
+3️⃣ Run the Application
+streamlit run app.py
+
+
